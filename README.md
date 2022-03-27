@@ -2,4 +2,4 @@
 test
 Commit and push
 
-Kolejny test
+Next test
